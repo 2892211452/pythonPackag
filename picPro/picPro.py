@@ -81,3 +81,5 @@ if __name__ == "__main__":
     filePicCut("/home/lwl/Study/code/Python/selenium/BaiduPic")
     img  = Image.open('/home/lwl/Study/code/Python/selenium/BaiduPic/images/0.jpg')
     img.show()
+
+    
