@@ -8,7 +8,7 @@ driver.get("https://image.baidu.com/")
 
 search = driver.find_element_by_name("word")
 #输入搜索词
-search.send_keys('hello')
+search.send_keys('python')
 #点击确认
 s_search = driver.find_element_by_class_name('s_search')
 s_search.click()
